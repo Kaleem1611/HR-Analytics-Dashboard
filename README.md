@@ -10,11 +10,7 @@ The dashboard helps HR teams understand employee behavior and make data-driven d
 
 ## Dashboard Preview
 
-> Add your dashboard screenshot inside the Images folder.
-
-![Dashboard](Images/Dashboard.png)
-
----
+![Dashboard](Dashboard.png)
 
 ## Key KPIs
 
